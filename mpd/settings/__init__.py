@@ -168,5 +168,5 @@ LOGGING = {
 ### MPD Specific Settings ###########################
 #####################################################
 
-MPD_CLIENT_HOST = '10.0.1.75'
+MPD_CLIENT_HOST = '127.0.0.1'
 MPD_CLIENT_PORT = 6600

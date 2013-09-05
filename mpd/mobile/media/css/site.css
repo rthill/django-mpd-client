@@ -58,7 +58,8 @@ html {
     bottom:0px;
     height: 40px;
     width: 100%;
-    background: #333333;
+    /*background: #333333;*/
+    background: #CDD5DF;
     text-align:center;
     display:table;
 }
